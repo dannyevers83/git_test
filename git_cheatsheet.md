@@ -1,14 +1,16 @@
-# Commands related to a remote repository:
+# Git Cheat Sheet
+
+## Commands related to a remote repository:
 
 - git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
 - git push or git push origin main (Both accomplish the same goal in this context)
 
-# Commands related to the workflow:
+## Commands related to the workflow:
 
 - git add .
 - git commit -m "A message describing what you have done to make this snapshot different"
 
-# Commands related to checking status or log history
+## Commands related to checking status or log history
 
 - git status
 - git log

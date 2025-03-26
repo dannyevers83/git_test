@@ -15,4 +15,4 @@
 - git status
 - git log
 
-* The basic Git syntax is program | action | destination.\*
+_The basic Git syntax is program | action | destination._
